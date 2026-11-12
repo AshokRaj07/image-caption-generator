@@ -60,7 +60,7 @@ image-caption-generator/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/image-caption-generator.git
+git clone https://github.com/AshokRaj07/image-caption-generator.git
 ```
 
 Navigate into the project directory:
