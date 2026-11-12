@@ -95,7 +95,7 @@ The application supports:
 
 ## Screenshots
 
-![Image Caption Generator](images/demo.png)
+![Image Caption Generator](images/image11.jpeg)
 
 ## Future Improvements
 
